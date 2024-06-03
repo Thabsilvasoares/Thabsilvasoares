@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Welcome to my profile 💙💙 My name is first name last name
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+I'm studying in my Alura I'm developing in the JavaScript language I use this space to organize and share my developed projects
